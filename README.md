@@ -1,3 +1,5 @@
+This is a simple blog web-application where you can see all the blogs, create, edit and delete blogs.
+
 ![Capture](https://user-images.githubusercontent.com/113851733/218306012-cdf92d8a-8d4b-4dcc-ae89-48f2f8082f61.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/113851733/218306019-adf7013a-e5e8-4b3c-a346-41ebc8361ee4.PNG)
